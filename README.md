@@ -1,18 +1,24 @@
-```markdown
+
 # 🛍️ Elegance — Full-Stack E-Commerce Web App
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea1fcf0e-c68b-4777-ac94-6baf53d05bfb" width="22%"/>
-  <img src="https://github.com/user-attachments/assets/060d9060-7ccb-4889-a2ce-79c0cb55397c" width="22%"/>
-  <img src="https://github.com/user-attachments/assets/f4ca13c5-0691-4e8a-9016-f503e514911b" width="22%"/>
-  <img src="https://github.com/user-attachments/assets/96c2a731-b318-4d87-99de-83ae5d0ebf97" width="22%"/>
+![Capture d'écran 2025-05-14 023724](https://github.com/user-attachments/assets/21b40b1d-fce0-4154-ab00-2958fad9c658)
+![Capture d'écran 2025-05-14 023732](https://github.com/user-attachments/assets/0752a49e-aa96-46a6-abc4-9c64a97353a3)
+
+<p align="center">
 
 
 
-  <img src="https://github.com/user-attachments/assets/4e3ca63d-f8d0-4498-9ee5-6bc671637abd" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/17240e47-a5da-40a8-89ad-1ee60bd7cd66" width="48%"/>
+
+![Capture d'écran 2025-05-14 023724](https://github.com/user-attachments/assets/1d06aff9-322a-46ee-a670-9c5f014177f0)
+![Capture d'écran 2025-05-14 023732](https://github.com/user-attachments/assets/73ee68e0-8d41-4651-aba8-e0a02291eede)
+![Capture d'écran 2025-05-14 023753](https://github.com/user-attachments/assets/4f92a79c-cf93-47ef-ab6e-60265246e2f1)
+![Capture d'écran 2025-05-14 023815](https://github.com/user-attachments/assets/d2d714f9-2d2d-43fc-af3c-5fba5e1c9e7e)
+![Capture d'écran 2025-05-14 023831](https://github.com/user-attachments/assets/8c39f938-87ed-45f1-aab0-8dc4f8941ae6)
+![Capture d'écran 2025-05-14 023836](https://github.com/user-attachments/assets/0b8cc9c6-b52a-458a-a952-150a04820523)
+![Capture d'écran 2025-05-14 023933](https://github.com/user-attachments/assets/7a9980a3-3193-4721-b7fc-a05c4f3841d8)
 </p>
 ## ✨ Features
-![Capture d'écran 2025-05-14 023724](https://github.com/user-attachments/assets/79aaf123-cbc1-4dd0-8ed3-a769c60c58b2)
+
 
 ### 👤 User Features
 
